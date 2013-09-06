@@ -1,7 +1,7 @@
 Smuggler
 ========
 
-  Python module for converting javascript files to glyph like sequences that run in the browser . Based on [Article](http://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html) from Patricio Palladino . 
+  Python module for converting javascript files to glyph like sequences that run in the browser .
   
  ## Example :
   
